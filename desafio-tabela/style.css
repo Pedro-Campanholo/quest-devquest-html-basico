@@ -1,0 +1,52 @@
+h1 {
+    font-size: 35px;
+    font-family: "RobotoMono";
+    font-weight: 400;
+}
+
+table {
+    border: 2px solid black;
+}
+
+th,
+tr {
+    text-align: center;
+    padding: 5px 20px;
+    font-family: "Platypi";
+    font-weight: 400;
+    font-size: 25px;
+    color: #fff;
+}
+
+td {
+    padding: 5px 15px;
+    text-align: left;  
+    background-color: #424250;
+    font-family: "Platypi";
+    font-weight: 400;
+    font-size: 18px;
+    color: #fff; 
+}
+
+.produtos-moda {
+    background-color: #bb86fc;
+    color: #fff;
+    font-size: 25px; 
+}
+
+.itens {
+    text-align: left;
+    padding: 5px 20px 5px 3px;
+    font-weight: bold;
+}
+
+.tamanho {
+    text-align: center;
+}
+
+.produtos-casa {
+    background-color: #00c4b4;
+    color: #fff;
+    
+}
+
